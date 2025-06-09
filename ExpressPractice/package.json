@@ -1,0 +1,15 @@
+{
+  "name": "express-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "Ramani Hasti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
